@@ -255,7 +255,7 @@ public class hangman{
             }
         }
         
-        if(error < 6){
+        if(error < 3){
             System.out.println("Success");
             map.put(wordLength,character);
             return 1;
