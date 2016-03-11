@@ -1,8 +1,6 @@
 # hangman-easy-AI
 Usage:
-
-javac hangman.java
+    javac hangman.java
 
 Execute:
-
-java hangman
+    java hangman
